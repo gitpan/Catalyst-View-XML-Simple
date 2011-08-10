@@ -33,7 +33,7 @@ L<Catalyst::Response>, L<Catalyst::Helper>
 
 =head1 AUTHOR
 
-Lindolfo Rodrigues de Oliveira Neto, C<lorn at cpan.org>
+Sebastian Riedel, C<sri@oook.de>
 
 =head1 LICENSE
 
