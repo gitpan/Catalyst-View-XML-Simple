@@ -1,7 +1,7 @@
 package Catalyst::View::XML::Simple;
 
 use Moose;
-our $VERSION = '0.02';
+our $VERSION = '0.021';
 use 5.008_001;
 
 extends qw(Catalyst::View);

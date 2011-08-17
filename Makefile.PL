@@ -7,6 +7,7 @@ license  'perl';
 
 build_requires 'Test::More';
 build_requires 'XML::Simple';
+build_requires 'Moose';
 
 auto_install;
 
