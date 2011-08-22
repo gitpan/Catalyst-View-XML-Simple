@@ -8,6 +8,7 @@ license  'perl';
 build_requires 'Test::More';
 build_requires 'XML::Simple';
 build_requires 'Moose';
+build_requires 'Catalyst';
 
 auto_install;
 
